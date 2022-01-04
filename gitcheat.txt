@@ -4,3 +4,6 @@ git push origin master
 
 PULL
 git clone <URL>
+
+locale
+git pull origin master
